@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding : 0;
+    box-sizing: border-box;
+}
+h1 {
+    color: sienna;
+}
+body{
+    background-image:url(5f4e42f108ea1ca19a905db73ee368f3.jpg);
+    
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+}
+p{
+    font-size: 2rem;
+}
