@@ -7,12 +7,58 @@ h1 {
     color: sienna;
 }
 body{
-    background-image:url(5f4e42f108ea1ca19a905db73ee368f3.jpg);
     
+    background: linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(5f4e42f108ea1ca19a905db73ee368f3.jpg);
     background-repeat: no-repeat;
     background-size:cover;
     
 }
 p{
     font-size: 2rem;
+}
+.nav {
+    width:100%;
+    height: 7vh;
+    background-color: rgb(14, 14, 14);
+    display: flex;
+    justify-content: space-between;
+
+   
+}
+ul {
+    width:85%;
+    list-style: none;
+    text-decoration: none;
+    font-size: 2rem;
+    color: rgb(17, 13, 13);
+    opacity: 0.5;
+    display: flex;
+    justify-content: center;
+    margin-right: 0.5rem;
+    margin-left: 0.5rem;
+   
+    
+}
+.logo {
+    height: 17vh;
+    width:23%;
+    border: 1rem solid rgb(13, 13, 13);
+    font-size: 8rem;
+    background-color: bisque;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.logo h1 {
+    font-size: 3rem;
+    color: red;
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+}
+ul li {
+    display: flex;
+    text-align: justify;
+    text-decoration: none;
+    
 }
