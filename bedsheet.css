@@ -1,0 +1,84 @@
+* {
+    margin:0 ;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    background: scroll;
+    background: linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(bedsheet.png);
+    background-position:center;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-size:cover;
+    width: 100%;  
+    height: 100vh;       
+}
+.one {
+    border-color: 2px solid black;
+    display: flex; 
+    width:20rem; 
+    height: 30rem;
+    margin-right: 25rem;
+    margin-left: 5rem;
+    margin-top: 10rem;
+    height: 40rem;
+}
+.y0{
+    margin-left: 5rem;
+}
+.y1{
+    margin-left: 5rem;
+    margin-right: 25rem;
+}
+.two {
+    border-color: 2px solid black;
+    display: flex; 
+    width:20rem; 
+    height: 30rem;
+    margin-right: 25rem;
+    margin-left: 5rem;
+    margin-top: 10rem;
+    height: 40rem;
+}
+.y2{
+    margin-left: 8rem;
+}
+  .y3{
+    margin-left: 8rem;
+    margin-right: 25rem;
+  }  
+.three {
+    border-color: 2px solid black;
+    display: flex; 
+    width:20rem; 
+    height: 30rem;
+    margin-right: 25rem;
+    margin-left: 5rem;
+    margin-top: 10rem;
+    height: 40rem;
+}
+.y4{
+    margin-left: 5rem;
+}
+.y5{
+    margin-left: 5rem;
+    margin-right: 25rem;
+}
+.four{
+    border-color: 2px solid black;
+    display: flex; 
+    width:20rem; 
+    height: 30rem;
+    margin-right: 25rem;
+    margin-left: 5rem;
+    margin-top: 10rem;
+    height: 40rem;
+}
+.y6{
+    margin-left: 5rem;
+}
+.y7{
+    margin-left: 5rem;
+    margin-right: 25rem;
+}
