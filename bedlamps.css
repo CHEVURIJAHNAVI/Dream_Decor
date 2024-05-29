@@ -1,0 +1,88 @@
+* {
+    margin:0 ;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    background: scroll;
+    background: linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(bedlamp.png);
+    background-position:center;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-size:cover;
+    width: 100%;  
+    height: 100vh;       
+}
+.one {
+    border-color: 2px solid black;
+    display: flex; 
+    width:20rem; 
+    height: 30rem;
+    margin-right: 25rem;
+    margin-left: 5rem;
+    margin-top: 10rem;
+    height: 40rem;
+}
+.y0{
+    margin-left: 10rem;
+    margin-right: 10rem;
+}
+.y1{
+    margin-left: 15rem;
+    margin-right: 15rem;
+}
+.two {
+    border-color: 2px solid black;
+    display: flex; 
+    width:20rem; 
+    height: 30rem;
+    margin-right: 25rem;
+    margin-left: 5rem;
+    margin-top: 10rem;
+    height: 40rem;
+}
+.y2{
+    margin-left: 10rem;
+    margin-right: 10rem;
+}
+  .y3{
+    margin-left: 15rem;
+    margin-right: 15rem;
+  }  
+.three {
+    border-color: 2px solid black;
+    display: flex; 
+    width:20rem; 
+    height: 30rem;
+    margin-right: 25rem;
+    margin-left: 5rem;
+    margin-top: 10rem;
+    height: 40rem;
+}
+.y4{
+    margin-left: 10rem;
+    margin-right: 10rem;
+}
+.y5{
+    margin-left: 15rem;
+    margin-right: 15rem;
+}
+.four{
+    border-color: 2px solid black;
+    display: flex; 
+    width:20rem; 
+    height: 30rem;
+    margin-right: 25rem;
+    margin-left: 5rem;
+    margin-top: 10rem;
+    height: 40rem;
+}
+.y6{
+    margin-left: 10rem;
+    margin-right: 10rem;
+}
+.y7{
+    margin-left: 15rem;
+    margin-right: 15rem;
+}
