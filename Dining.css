@@ -1,0 +1,16 @@
+*{
+    margin: 5px;
+    padding: 10px;
+    box-sizing: border-box;
+   font-family:  'Poppins', sans-serif;
+}
+body{
+   display: flex;
+   justify-content:center ;
+   align-items: center;
+   min-height: 100vh;;
+   background: linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(table.webp);
+   ;
+   background-size:cover;
+   background-position: center;
+}
