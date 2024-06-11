@@ -6,7 +6,7 @@
 body{
     background-color: black;
     background: scroll;
-    background: linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(painting.png);
+    background: linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(teapoy.png);
     background-position:center;
     background-repeat:no-repeat;
     background-attachment:fixed;
