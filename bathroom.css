@@ -7,7 +7,7 @@
  body{
     background-color: black;
     background: scroll;
-    background: linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(bathroombg.jpeg);
+    background: linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(BathRoom.png);
     background-position:center;
     background-repeat:no-repeat;
     background-attachment:fixed;
